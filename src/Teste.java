@@ -8,7 +8,6 @@ public class Teste {
         arvore.inserir(1);
         
         arvore.exibir(arvore.getRaiz());
-        
     }
     
 }
